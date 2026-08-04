@@ -149,28 +149,7 @@ Every repository under CRLabs AI follows professional engineering practices.
 
 ---
 
-# Current Roadmap
 
-### Foundation
-
-- [x] GitHub Organization
-- [ ] Engineering Handbook
-- [ ] Development Standards
-- [ ] Architecture Guidelines
-
-### Products
-
-- [ ] Akesis MVP
-- [ ] GestureOS
-- [ ] CRLabs Website
-
-### Community
-
-- [ ] Technical Blogs
-- [ ] Open Source Libraries
-- [ ] Developer Documentation
-
----
 
 # Open Source
 
