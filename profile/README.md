@@ -185,22 +185,6 @@ CRLabs AI is built and maintained by two software engineers focused on AI, backe
 
 We work using standard modern engineering workflows: GitHub Projects for planning, pull requests and code review for every change, sprint-based iteration, and documentation as a first-class deliverable.
 
----
-
-## Roadmap
-
-- [ ] Ship Akesis private beta
-- [ ] Publish first open-source utility library
-- [ ] Public documentation site
-- [ ] GestureOS proof-of-concept
-
----
-
-## Contact
-
-- **Organization:** CRLabs AI
-- **GitHub:** [github.com/CRLabs-AI](#)
-- Reach out via Issues/Discussions on our repositories, or update this section with your preferred contact channel (email, X/Twitter, LinkedIn, Discord).
 
 ---
 
